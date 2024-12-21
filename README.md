@@ -1,5 +1,7 @@
 # SendGrid HTML Email Action
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2f8a8a7d10914195ab591eb73b212c3c)](https://app.codacy.com/gh/ajitmourya7/action-send-mail?utm_source=github.com&utm_medium=referral&utm_content=ajitmourya7/action-send-mail&utm_campaign=Badge_Grade)
+
 This GitHub Action sends HTML emails using SendGrid.
 
 ## Inputs
