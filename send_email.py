@@ -7,7 +7,7 @@ def main():
         # Retrieve inputs from command-line arguments
         sendgrid_api_key = sys.argv[1]
         from_email = sys.argv[2]
-        to_email = sys.argv[3]
+        to_email = sys.argv[3].split(",")
         subject = sys.argv[4]
         html_content = sys.argv[5]
 
